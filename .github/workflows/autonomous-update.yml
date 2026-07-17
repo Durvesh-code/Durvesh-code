@@ -1,0 +1,49 @@
+name: Autonomous Node Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executes daily at 00:00 UTC
+  workflow_dispatch: # Enables manual execution from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Execute System Log Injection
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: owner,
+              sort: 'updated',
+              per_page: 3
+            });
+
+            let logEntry = '### 🔄 `recent_system_logs()`\n\n| Repository | Status |\n| :--- | :--- |\n';
+            repos.forEach(r => {
+              const date = new Date(r.pushed_at).toISOString().split('T')[0];
+              logEntry += `| **[${r.name}](${r.html_url})** | Synced: ${date} |\n`;
+            });
+
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            const startTag = '<!-- SYSTEM_LOG:START -->';
+            const endTag = '<!-- SYSTEM_LOG:END -->';
+            const regex = new RegExp(`${startTag}[\\s\\S]*?${endTag}`, 'g');
+
+            readme = readme.replace(regex, `${startTag}\n${logEntry}\n${endTag}`);
+            fs.writeFileSync(readmePath, readme);
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "sys: automated log update" || exit 0
+          git push

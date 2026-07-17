@@ -42,7 +42,6 @@ Event management platform — Java Spring Boot + React. Built during an Infosys 
 </p>
 
 ---
----
 <!-- SYSTEM_LOG:START -->
 <!-- SYSTEM_LOG:END -->
 ---

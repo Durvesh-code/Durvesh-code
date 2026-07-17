@@ -1,40 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D9488&height=120&section=header&text=NODE_ID:%20DURVESH_PATIL&fontSize=45&fontColor=00ffcc&animation=fadeIn&fontAlignY=45&desc=Autonomous%20AI/ML%20Engineering%20Construct&descAlignY=75&descSize=16" alt="Header" width="100%"/>
+
+# `NODE_ID: DURVESH_PATIL`
+
+**Autonomous AI / ML Engineering Node**
+Dhule, Maharashtra, India
+
+<a href="https://patil-durvesh.web.app/">
+  <img src="https://img.shields.io/badge/PORTAL-LIVE-0D9488?style=for-the-badge&logo=firebase&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/durvesh-patil-3b40173a0/">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&height=45&lines=>_Initializing_hybrid_RAG_pipelines...;>_Deploying_Agentic_AI_architectures...;>_Compiling_local_LLM_environments..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://patil-durvesh.web.app/"><img src="https://img.shields.io/badge/System_Interface-0D1117?style=for-the-badge&logo=firebase&logoColor=00ffcc&labelColor=0D9488" /></a>
-  <a href="https://www.linkedin.com/in/durvesh-patil-3b40173a0/"><img src="https://img.shields.io/badge/Neural_Network-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=7C3AED" /></a>
-</p>
 
 ---
 
-### ⚙️ `sys.config()`
+## `system.boot`
 
 ```json
 {
-  "designation": "Machine Learning & Agentic AI Engineer",
-  "location": "Dhule, Maharashtra, India",
+  "identity": "Durvesh Patil",
+  "role": "Machine Learning & Agentic AI Engineer",
   "education": "Final-year IT undergrad @ SVKM IOT",
-  "hardware_allocation": ["Intel i5", "16GB RAM", "RTX Local Inference Node"],
-  "certifications": [
-    "Apna College Prime AI/ML (GenAI/Agents)",
-    "Oracle Cloud Infrastructure 2025 AI Foundations Associate"
-  ]
+  "location": "Dhule, Maharashtra, India",
+  "hardware": ["Intel i5", "16GB RAM", "RTX local inference node"],
+  "focus": ["GenAI", "Agents", "RAG Systems", "ML Engineering"]
 }
 ```
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
-  <img
-    alt="github contribution grid snake"
-    src="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
-</picture>
+
+---
+
+## `active.modules`
+
+### `01. HealthTrack+`
+
+A unified health workflow system for patients, doctors, and pharmacies.
+Designed to connect appointments, prescriptions, and medicine handling into one flow.
+
+### `02. College RAG Chatbot`
+
+A retrieval-based chatbot built from college website content and documents.
+Uses scraping, embeddings, vector search, and local or API-based LLMs.
+
+### `03. Hospital Locator`
+
+A location-aware system for finding hospitals using structured datasets and chatbot-style interaction.
+Built with practical search and mapping logic.
+
+### `04. CreditWise Loan Approval`
+
+A machine learning classification project for loan approval prediction.
+Focused on feature handling, model training, and evaluation.
+
+---
+
+## `mission.log`
+
+* Building systems that combine **AI, search, and automation**
+* Turning messy information into **usable workflows**
+* Exploring **local LLMs**, **RAG**, and **agentic tools**
+* Creating projects that feel like products, not just demos
+
+---
+
+## `toolchain.locked`
+
+**Languages**
+Python · JavaScript · SQL · Java
+
+**Frontend**
+HTML · CSS · Bootstrap · React · Tailwind
+
+**Backend**
+Flask · Node.js · Express · MySQL
+
+**AI / ML Stack**
+Pandas · NumPy · scikit-learn · Matplotlib · ChromaDB · LangChain · Ollama
+
+**Platforms / Tools**
+GitHub · Firebase · XAMPP · VS Code · Jupyter · Android Studio
+
+---
+
+## `current.focus`
+
+```text
+> strengthening backend + AI engineering skills
+> building practical GenAI applications
+> improving project architecture and deployment
+> learning how to ship cleaner, stronger demos
+```
+
+---
+
+## `signature`
+
+What I enjoy most is building software that feels alive:
+systems that search, reason, respond, and help people get things done.
+
+---
+
+## `contact.signal`
+
+* **Portfolio**: [patil-durvesh.web.app](https://patil-durvesh.web.app/)
+* **LinkedIn**: [durvesh-patil-3b40173a0](https://www.linkedin.com/in/durvesh-patil-3b40173a0/)
+* **GitHub**: `Durvesh-code`
+
+---
+
+<div align="center">
+
+**`NODE STATUS: ACTIVE`**
+
+</div>

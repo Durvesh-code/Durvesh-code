@@ -1,7 +1,5 @@
 <!-- ================= SYSTEM HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0D1117,0D9488,7C3AED&amp;height=220&amp;section=header&amp;text=Durvesh%20Patil&amp;fontSize=50&amp;fontColor=00ffcc&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20%26%20Agentic%20AI%20Engineer&amp;descAlignY=55&amp;descSize=18&amp;descColor=E2E8F0" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:7C3AED&height=220&section=header&text=Durvesh%20Patil&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20and%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18&descColor=E2E8F0" width="100%"/>
 
 <!-- ================= TERMINAL OUTPUT ================= -->
 <p align="center">
@@ -81,3 +79,4 @@
     alt="github contribution grid snake"
     src="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
 </picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0D9488,100:0D1117&height=120&section=footer" width="100%"/>

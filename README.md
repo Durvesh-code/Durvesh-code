@@ -42,14 +42,15 @@ Event management platform — Java Spring Boot + React. Built during an Infosys 
 </p>
 
 ---
-[
-  {
-    "module": "HealthTrack-",
-    "last_sync": "2026-07-06T14:32:00Z",
-    "latest_operation": "Updated SSE streaming logic for agent tools"
-  },
-  ...
-]
+### 💻 `sys.info()`
+```json
+{
+  "name": "Durvesh Patil",
+  "status": "Final-year IT undergrad @ SVKM IOT",
+  "location": "Dhule, Maharashtra, India",
+  "compute_environment": ["Intel i5", "16GB RAM", "RTX Local Inference Node"],
+  "certifications": ["Apna College Prime AI/ML", "OCI 2025 AI Foundations Associate"]
+}
 
 <!-- SYSTEM_LOG:END -->
 ---

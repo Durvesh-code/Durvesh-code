@@ -1,19 +1,19 @@
 <!-- ================= SYSTEM HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D9488,100:7C3AED&height=220&section=header&text=Durvesh%20Patil&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18&descColor=E2E8F0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0D1117,0D9488,7C3AED&amp;height=220&amp;section=header&amp;text=Durvesh%20Patil&amp;fontSize=50&amp;fontColor=00ffcc&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20%26%20Agentic%20AI%20Engineer&amp;descAlignY=55&amp;descSize=18&amp;descColor=E2E8F0" width="100%"/>
 </p>
 
 <!-- ================= TERMINAL OUTPUT ================= -->
 <p align="center">
   <a href="https://patil-durvesh.web.app/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00ffcc&center=true&vCenter=true&width=650&height=50&lines=>_Initializing_hybrid_RAG_pipelines...;>_Deploying_Agentic_AI_architectures...;>_Compiling_local_LLM_environments...;>_Final-year_IT_undergrad_@_SVKM_IOT" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00ffcc&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=>_Initializing_hybrid_RAG_pipelines...;>_Deploying_Agentic_AI_architectures...;>_Compiling_local_LLM_environments...;>_Final-year_IT_undergrad_@_SVKM_IOT" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durvesh-code&style=for-the-badge&color=0D9488&label=SYSTEM_PINGS" alt="Profile views"/>
-  <a href="https://patil-durvesh.web.app/"><img src="https://img.shields.io/badge/System_Interface-0D1117?style=for-the-badge&logo=firebase&logoColor=00ffcc&labelColor=0D9488" /></a>
-  <a href="https://www.linkedin.com/in/durvesh-patil-3b40173a0/"><img src="https://img.shields.io/badge/Neural_Network-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=7C3AED" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Durvesh-code&amp;style=for-the-badge&amp;color=0D9488&amp;label=SYSTEM_PINGS" alt="Profile views"/>
+  <a href="https://patil-durvesh.web.app/"><img src="https://img.shields.io/badge/System_Interface-0D1117?style=for-the-badge&amp;logo=firebase&amp;logoColor=00ffcc&amp;labelColor=0D9488" /></a>
+  <a href="https://www.linkedin.com/in/durvesh-patil-3b40173a0/"><img src="https://img.shields.io/badge/Neural_Network-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF&amp;labelColor=7C3AED" /></a>
 </p>
 
 ---
@@ -21,15 +21,15 @@
 ### ⚡ `sys.dependencies()`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,pytorch,scikit,fastapi,flask,spring,react,mongodb,mysql,docker,git,github,aws,linux&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,pytorch,scikit,fastapi,flask,spring,react,mongodb,mysql,docker,git,github,aws,linux&amp;perline=8" alt="Tech Stack" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00ffcc&labelColor=0D9488"/>
-  <img src="https://img.shields.io/badge/Agentic_AI_(Agno)-0D1117?style=for-the-badge&logo=openai&logoColor=00ffcc&labelColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logo=databricks&logoColor=00ffcc&labelColor=0D9488"/>
-  <img src="https://img.shields.io/badge/Vector_DBs_(Chroma)-0D1117?style=for-the-badge&logo=database&logoColor=00ffcc&labelColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/Local_LLMs_(Ollama)-0D1117?style=for-the-badge&logo=ollama&logoColor=00ffcc&labelColor=0D9488"/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&amp;logo=chainlink&amp;logoColor=00ffcc&amp;labelColor=0D9488"/>
+  <img src="https://img.shields.io/badge/Agentic_AI_(Agno)-0D1117?style=for-the-badge&amp;logo=openai&amp;logoColor=00ffcc&amp;labelColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&amp;logo=databricks&amp;logoColor=00ffcc&amp;labelColor=0D9488"/>
+  <img src="https://img.shields.io/badge/Vector_DBs_(Chroma)-0D1117?style=for-the-badge&amp;logo=database&amp;logoColor=00ffcc&amp;labelColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/Local_LLMs_(Ollama)-0D1117?style=for-the-badge&amp;logo=ollama&amp;logoColor=00ffcc&amp;labelColor=0D9488"/>
 </div>
 
 ---
@@ -48,8 +48,8 @@
 ### 📊 `telemetry.stats()`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-code&show_icons=true&title_color=00ffcc&text_color=E2E8F0&icon_color=7C3AED&bg_color=0D1117&hide_border=true" alt="System Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Durvesh-code&stroke=00ffcc&ring=7C3AED&fire=00ffcc&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=E2E8F0&background=0D1117&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Durvesh-code&amp;show_icons=true&amp;title_color=00ffcc&amp;text_color=E2E8F0&amp;icon_color=7C3AED&amp;bg_color=0D1117&amp;hide_border=true" alt="System Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Durvesh-code&amp;stroke=00ffcc&amp;ring=7C3AED&amp;fire=00ffcc&amp;currStreakNum=E2E8F0&amp;sideNums=E2E8F0&amp;currStreakLabel=7C3AED&amp;sideLabels=7C3AED&amp;dates=E2E8F0&amp;background=0D1117&amp;hide_border=true" alt="Streak Stats" width="48%" />
 </div>
 
 ---
@@ -69,3 +69,15 @@
     "latest_operation": "implement responsive dashboard layout and base styles"
   }
 ]
+```
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
+  <img
+    alt="github contribution grid snake"
+    src="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
+</picture>

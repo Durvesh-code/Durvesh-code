@@ -1,27 +1,40 @@
-# NODE_ID: DURVESH_PATIL
-> AI/ML engineer building retrieval systems, agentic workflows, and deployable products
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D9488&height=120&section=header&text=NODE_ID:%20DURVESH_PATIL&fontSize=45&fontColor=00ffcc&animation=fadeIn&fontAlignY=45&desc=Autonomous%20AI/ML%20Engineering%20Construct&descAlignY=75&descSize=16" alt="Header" width="100%"/>
+</div>
 
-[ LIVE PORTAL ] [ LINKEDIN ] [ GITHUB ]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=600&height=45&lines=>_Initializing_hybrid_RAG_pipelines...;>_Deploying_Agentic_AI_architectures...;>_Compiling_local_LLM_environments..." alt="Typing SVG" />
+</p>
 
-## SYSTEM STATUS
-- Core focus: GenAI, RAG, agents, backend AI systems
-- Current stack: Python, Flask, FastAPI, React, MySQL, LangChain, ChromaDB, Ollama
-- Active mode: building, testing, deploying
+<p align="center">
+  <a href="https://patil-durvesh.web.app/"><img src="https://img.shields.io/badge/System_Interface-0D1117?style=for-the-badge&logo=firebase&logoColor=00ffcc&labelColor=0D9488" /></a>
+  <a href="https://www.linkedin.com/in/durvesh-patil-3b40173a0/"><img src="https://img.shields.io/badge/Neural_Network-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=7C3AED" /></a>
+</p>
 
-## FIELD REPORT
-1. HealthTrack+ — health workflow system connecting patients, doctors, and pharmacies
-2. College RAG Bot — document + website search assistant with embeddings and vector search
-3. CreditWise — ML loan approval system with model evaluation and prediction
-4. Hospital Locator — structured search + chatbot assistant for hospital discovery
+---
 
-## ENGINE ROOM
-Python · SQL · JavaScript · React · Flask · FastAPI · MySQL · Pandas · scikit-learn · LangChain · ChromaDB · Ollama
+### ⚙️ `sys.config()`
 
-## WHAT I BUILD
-- systems that search
-- systems that reason
-- systems that automate
-- systems that feel like products
-
-## SIGNALS
-Portfolio • LinkedIn • Email
+```json
+{
+  "designation": "Machine Learning & Agentic AI Engineer",
+  "location": "Dhule, Maharashtra, India",
+  "education": "Final-year IT undergrad @ SVKM IOT",
+  "hardware_allocation": ["Intel i5", "16GB RAM", "RTX Local Inference Node"],
+  "certifications": [
+    "Apna College Prime AI/ML (GenAI/Agents)",
+    "Oracle Cloud Infrastructure 2025 AI Foundations Associate"
+  ]
+}
+```
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
+  <img
+    alt="github contribution grid snake"
+    src="https://raw.githubusercontent.com/Durvesh-code/Durvesh-code/output/github-contribution-grid-snake.svg">
+</picture>

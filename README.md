@@ -42,16 +42,7 @@ Event management platform — Java Spring Boot + React. Built during an Infosys 
 </p>
 
 ---
-### 💻 `sys.info()`
-```json
-{
-  "name": "Durvesh Patil",
-  "status": "Final-year IT undergrad @ SVKM IOT",
-  "location": "Dhule, Maharashtra, India",
-  "compute_environment": ["Intel i5", "16GB RAM", "RTX Local Inference Node"],
-  "certifications": ["Apna College Prime AI/ML", "OCI 2025 AI Foundations Associate"]
-}
-
+<!-- SYSTEM_LOG:START -->
 <!-- SYSTEM_LOG:END -->
 ---
 ### Background

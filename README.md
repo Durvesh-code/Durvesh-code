@@ -2,7 +2,7 @@
 
 Final-year IT student at SVKM's Institute of Technology, Dhule. Building AI/ML systems — RAG pipelines, applied ML, and full-stack apps with an AI layer underneath. Looking for AI/ML Engineer roles.
 
-[Portfolio](#) · [LinkedIn](#)
+[Portfolio](https://patil-durvesh.web.app/) · [LinkedIn](https://www.linkedin.com/in/durvesh-patil-3b40173a0/)
 
 ---
 

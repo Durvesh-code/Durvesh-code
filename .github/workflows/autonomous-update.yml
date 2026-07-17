@@ -27,11 +27,25 @@ jobs:
               per_page: 3
             });
 
-            let logEntry = '### 🔄 `recent_system_logs()`\n\n| Repository | Status |\n| :--- | :--- |\n';
-            repos.forEach(r => {
-              const date = new Date(r.pushed_at).toISOString().split('T')[0];
-              logEntry += `| **[${r.name}](${r.html_url})** | Synced: ${date} |\n`;
-            });
+            let logContent = '```json\n[\n';
+            let entries = [];
+
+            for (const r of repos) {
+              const { data: commits } = await github.rest.repos.listCommits({
+                owner: owner,
+                repo: r.name,
+                per_page: 1
+              }).catch(() => ({ data: [] }));
+              
+              const latestCommit = commits[0]?.commit?.message?.split('\n')[0].replace(/"/g, '\\"') || "Automated system sync";
+              const syncDate = new Date(r.pushed_at).toISOString().replace('.000Z', 'Z');
+
+              entries.push(`  {\n    "module": "${r.name}",\n    "last_sync": "${syncDate}",\n    "latest_operation": "${latestCommit}"\n  }`);
+            }
+
+            logContent += entries.join(',\n') + '\n]\n```';
+            
+            let logEntry = '### 📡 `telemetry_stream()`\n\n' + logContent + '\n';
 
             const fs = require('fs');
             const readmePath = 'README.md';
@@ -50,4 +64,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "sys: automated log update" || exit 0
+          git pull --rebase
           git push

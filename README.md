@@ -37,7 +37,6 @@
 | Operational Node | Tech Stack | System Log |
 | :--- | :--- | :--- |
 | 🩺 **[HealthTrack+](https://github.com/Durvesh-code/HealthTrack-)** | `Flask, React 19, MongoDB, Agno` | Multi-role platform with an SSE-streamed, role-aware AI agent utilizing JWT-bound tool calls. |
-| 📈 **FinSight AI** | `Python, PyTorch, LangChain, Docker` | Autonomous financial analysis agent featuring local RTX hardware optimization and data engineering pipelines. |
 | 🔍 **[Advanced RAG](https://github.com/Durvesh-code/Advanced_RAG_System)** | `FastAPI, LangChain, ChromaDB` | Hybrid retrieval QA system fusing BM25 keyword search with dense vectors and cross-encoder reranking. |
 | 🎫 **[Evently](https://github.com/Durvesh-code/Evently)** | `Java Spring Boot, React.js` | Full-stack platform built during Infosys Springboard internship with role-based access. |
 
